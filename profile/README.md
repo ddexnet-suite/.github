@@ -3,11 +3,11 @@
 DDEX.net Suite develops a universal, uncompromising, extremely fast, reliable, open-source implementation of the *DDEX Digital Sales Report Message Suite Standard* ([DSR](https://ddex.net/standards/sales-and-usage-reporting/)).
 
 ## Motivation
-> DDEX is a standards-setting organization focused on the creation of digital value chain standards to make the exchange of data and information across the music industry more efficient.
+> DDEX is a standards-setting organisation focused on the creation of digital value chain standards to make the exchange of data and information across the music industry more efficient.
 
 The existence of a standard is a major step in data exchange communication across companies. Unfortunately, DDEX does not have the resources to develop and maintain a common, open-source implementation of the standard.
 
-Focusing on the *DDEX Digital Sales Report Message Suite Standard* ([DSR](https://ddex.net/standards/sales-and-usage-reporting/)), as of December 2022, DDEX [acknowledges](https://kb.ddex.net/display/HBK/Open+Source+Software) an open-source [DSR Flat File parser](https://github.com/ddexnet/dsrf), but it is not actively maintained.
+Focusing on the *DDEX Digital Sales Report Message Suite Standard* ([DSR](https://ddex.net/standards/sales-and-usage-reporting/)), as of December 2024, DDEX [acknowledges](https://kb.ddex.net/reference-material/open-source-software/) an open-source [DSR Flat File parser](https://github.com/ddexnet/dsrf), but it is not actively maintained.
 
 **The goal** is to develop a universal, uncompromising, extremely fast, reliable, open-source implementation of the *DDEX Digital Sales Report Message Suite Standard* ([DSR](https://ddex.net/standards/sales-and-usage-reporting/)).
 
